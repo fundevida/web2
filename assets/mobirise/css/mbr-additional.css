@@ -1218,6 +1218,9 @@ a {
     display: none !important;
   }
 }
+.cid-sbg9bvn9bn DIV {
+  text-align: left;
+}
 .cid-sbgcEBwrcs {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1265,7 +1268,7 @@ a {
   margin-top: auto !important;
 }
 .cid-sbgcEBwrcs .mbr-section-title {
-  color: #232323;
+  color: #8ebe34;
 }
 .cid-sbgcEBwrcs .mbr-text,
 .cid-sbgcEBwrcs .mbr-section-btn {
@@ -1278,6 +1281,9 @@ a {
 .cid-sbgcEBwrcs .item-subtitle {
   text-align: left;
   color: #8ebe34;
+}
+.cid-sbgcEBwrcs .mbr-section-subtitle {
+  text-align: left;
 }
 .cid-sbgiz18S7V {
   padding-top: 1rem;
